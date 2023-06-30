@@ -12,6 +12,6 @@
    ![image](https://github.com/NannF00/SQL/assets/117897416/4bee1eec-7d8e-4e83-a5f2-dadde974befc)
 5. 把这个文件用记事本打开,拷贝代码
    ![image](https://github.com/NannF00/SQL/assets/117897416/62bf9899-1a06-4014-b470-524e8413de47)
-6. 把Query粘贴到新创建好的空数据库里,结束 
+6. 把Query粘贴到新创建好的空数据库里, 结束 
 
 
