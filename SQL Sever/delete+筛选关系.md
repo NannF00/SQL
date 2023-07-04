@@ -13,6 +13,7 @@ using
 不能使用inner join 因为delete不能和inner join 一起用
 
 代码:
+
     Select * from "User"
     inner join "User_Module"
     on "User_Module"."UserId" = "User"."Id" 
