@@ -26,5 +26,5 @@ using
     using "User"
     where "User_Module"."UserId" = "User"."Id"
     and "User"."HappEnabled"='false'
-    and "User_Module"."ModuleNormalizedName"='HAPP_AUSHÄNGE'
+    and "User_Module"."ModuleNormalizedName"='HAPP_FAQS'
 
